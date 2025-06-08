@@ -9,10 +9,10 @@ const Process = () => {
         <h3 className="uppercase font-satoshi font-light tracking-widest text-xs tablet:text-sm desktop:text-base">
           the process
         </h3>
-        <h1 className="font-satoshi font-extralight text-5xl  mt-2 tablet:mt-3 text-center">
+        <h1 className="font-satoshi font-extralight text-5xl tablet:text-7xl desktop:text-8xl mt-2 tablet:mt-3 text-center">
           Your Website
         </h1>
-        <h1 className="font-gambetta font-extralight italic text-5xl  my-2 tablet:my-4 desktop:my-6 leading-tight text-center">
+        <h1 className="font-gambetta font-extralight italic text-5xl tablet:text-7xl desktop:text-8xl my-2 tablet:my-4 desktop:my-6 leading-tight text-center">
           in 5 steps
         </h1>
         <p className="text-center mt-3 tablet:mt-4 desktop:mt-6 text-sm tablet:text-base desktop:text-lg max-w-2xl leading-relaxed">
