@@ -4,7 +4,7 @@ import { ServiceCard } from "./ui/ServiceCard";
 
 const Services = () => {
   return (
-    <div className=" grid grid-cols-1 gap-5 desktop:grid-cols-3 items-center justify-center w-full px-6 tablet:p-10 desktop:p-20">
+    <div className=" grid grid-cols-1 gap-5 desktop:grid-cols-3 items-center justify-center w-[90vw] tablet:p-10 desktop:p-20">
       <ServiceCard
         cardNumber="01"
         title="Web Design"

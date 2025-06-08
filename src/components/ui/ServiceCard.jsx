@@ -12,7 +12,9 @@ export const ServiceCard = ({ cardNumber, title, description, btnText, btnLink }
           </h1>
           <p className="mt-2   ">{description}</p>
 
-          <BtnMore btnText={btnText} link={btnLink} />
+          <div className="mt-6">
+            <BtnMore btnText={btnText} link={btnLink} />
+          </div>
         </div>
       </div>
     </div>
